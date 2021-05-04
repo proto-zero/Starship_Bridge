@@ -2,8 +2,6 @@
 
 ## How To Run The Program
 
-<img src="./images/phaser.jpeg">
-
 Run the program through starship_bridge.rb
 
 ## Instructions
